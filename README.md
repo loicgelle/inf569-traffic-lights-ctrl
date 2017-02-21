@@ -1,1 +1,1 @@
-# inf569-traffic-lights-ctrl
+# INF569 Project: Intelligent traffic lights controller
